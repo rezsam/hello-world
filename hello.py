@@ -1,2 +1,3 @@
-print("*** This is a hello world")
-print("Hello World 4 !!!")
+print("*** This is a hello world ***")
+print("*** Just test ***")
+print("Hello World 5 !!!")
